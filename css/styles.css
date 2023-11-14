@@ -14,7 +14,13 @@ h1 {
 h2 { 
     font-weight: bold;
     font-size: 25px;
-    color: #1C0221;
+    color: #544E61;
+}
+
+h3 { 
+    font-size: 20px;
+    font-weight: bold;
+    color: #6E8894;
 }
 
 header {
